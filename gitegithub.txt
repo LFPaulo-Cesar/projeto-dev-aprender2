@@ -1,0 +1,5 @@
+branch - galhos, caminhos diferentes
+branch master ou principal
+modificaçoes geram versões
+trabalho em equipe, diversas branchs (a principal recebe só código que funciona)
+quando a principal recebe de outras branchs isso se chama merg
